@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owenzhang76/bootstrap_tutorial.git"
+  },
+  "author": "Owen Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owenzhang76/bootstrap_tutorial/issues"
+  },
+  "homepage": "https://github.com/owenzhang76/bootstrap_tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
